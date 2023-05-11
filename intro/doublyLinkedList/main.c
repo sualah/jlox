@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <main.h>
+#include "main.h"
 #include <stdlib.h>
 #include <string.h>
 
@@ -86,18 +86,17 @@ void printList(struct DoublyLinkedList *list)
     }
 }
 
-
 int main()
 {
     DoublyLinkedList *list = createList();
 
-    insert(list, "Alice");
-    insert(list, "Bob");
-    insert(list, "Charlie");
-    insert(list, "David");
+    insert("Alice", list);
+    insert("Bob", list);
+    insert("Charlie", list);
+    insert("David", list);
     printf("List after insertions:\n");
     printList(list);
-    Node *node = find(list, "Charlie");
+    Node *node = find(list, "Charle");
     if (node != NULL)
     {
         printf("Found node with value \"%s\"\n", node->value);
@@ -106,6 +105,9 @@ int main()
     {
         printf("Node not found\n");
     }
-    delete (list, "Bob");
+    delete ("Bob", list);
+    printf("\nList after deletion of Bob :\n");
+    printList(list);
+
     return 0;
 }

@@ -7,14 +7,14 @@
 typedef struct Node
 {
     char *value;
-    Node *next;
-    Node *prev;
+    struct Node *next;
+    struct Node *prev;
 } Node;
 
 typedef struct DoublyLinkedList
 {
-    Node *head;
-    Node *tail;
+    struct Node *head;
+    struct Node *tail;
 } DoublyLinkedList;
 
 DoublyLinkedList*  createList();
