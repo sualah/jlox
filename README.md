@@ -1,2 +1,4 @@
 # crafting-interpreter
-Custom language i implemented whiles following crafting interpreters by Robert Nystrom
+Custom language I implemented whiles following crafting interpreters by Robert Nystrom
+
+
