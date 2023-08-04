@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21fc8368-d575-4a71-b929-3fa1960aea3d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Q9tYf9ZWl3jIiZgM3Pc5Fzst3T" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.AstPrinter">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="AstPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interpreter.lox.AstPrinter" />
+      <module name="java-interpreter" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Lox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.interpreter.lox.Lox" />
+      <module name="java-interpreter" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="java-interpreter" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="com.interpreter.tool.GenerateAst" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.interpreter.tool.GenerateAst" />
+      <module name="java-interpreter" />
+      <option name="PROGRAM_PARAMETERS" value="./src/com/interpreter/lox" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AstPrinter" />
+        <item itemvalue="Application.Lox" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1691109935168">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser/0.25.1920.971@0.25.1920.971" timestamp="1691109935168" />
+    <state width="1920" height="238" key="GridCell.Tab.0.bottom" timestamp="1691111215079">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.0.bottom/0.25.1920.970@0.25.1920.970" timestamp="1691108742785" />
+    <state width="1920" height="238" key="GridCell.Tab.0.bottom/0.25.1920.971@0.25.1920.971" timestamp="1691111215079" />
+    <state width="1920" height="238" key="GridCell.Tab.0.center" timestamp="1691111215078">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.0.center/0.25.1920.970@0.25.1920.970" timestamp="1691108742785" />
+    <state width="1920" height="238" key="GridCell.Tab.0.center/0.25.1920.971@0.25.1920.971" timestamp="1691111215078" />
+    <state width="1920" height="238" key="GridCell.Tab.0.left" timestamp="1691111215077">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.0.left/0.25.1920.970@0.25.1920.970" timestamp="1691108742785" />
+    <state width="1920" height="238" key="GridCell.Tab.0.left/0.25.1920.971@0.25.1920.971" timestamp="1691111215077" />
+    <state width="1920" height="238" key="GridCell.Tab.0.right" timestamp="1691111215078">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.0.right/0.25.1920.970@0.25.1920.970" timestamp="1691108742785" />
+    <state width="1920" height="238" key="GridCell.Tab.0.right/0.25.1920.971@0.25.1920.971" timestamp="1691111215078" />
+    <state width="1920" height="245" key="GridCell.Tab.1.bottom" timestamp="1691109206460">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.1.bottom/0.25.1920.970@0.25.1920.970" timestamp="1691108431292" />
+    <state width="1920" height="245" key="GridCell.Tab.1.bottom/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
+    <state width="1920" height="245" key="GridCell.Tab.1.center" timestamp="1691109206460">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.1.center/0.25.1920.970@0.25.1920.970" timestamp="1691108431291" />
+    <state width="1920" height="245" key="GridCell.Tab.1.center/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
+    <state width="1920" height="245" key="GridCell.Tab.1.left" timestamp="1691109206460">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.1.left/0.25.1920.970@0.25.1920.970" timestamp="1691108431291" />
+    <state width="1920" height="245" key="GridCell.Tab.1.left/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
+    <state width="1920" height="245" key="GridCell.Tab.1.right" timestamp="1691109206460">
+      <screen x="0" y="25" width="1920" height="971" />
+    </state>
+    <state width="1920" height="245" key="GridCell.Tab.1.right/0.25.1920.970@0.25.1920.970" timestamp="1691108431291" />
+    <state width="1920" height="245" key="GridCell.Tab.1.right/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
+  </component>
+</project>
