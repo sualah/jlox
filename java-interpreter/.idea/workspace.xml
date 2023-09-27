@@ -30,10 +30,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.Lox">
+  <component name="RunManager" selected="Application.com.interpreter.tool.GenerateAst">
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
@@ -66,15 +68,13 @@
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
     </configuration>
     <configuration name="com.interpreter.tool.GenerateAst" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.interpreter.tool.GenerateAst" />
       <module name="java-interpreter" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../demo.lox" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/src/com/interpreter/lox" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -85,10 +85,10 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.com.interpreter.tool.GenerateAst" />
       <item itemvalue="Application.AstPrinter" />
       <item itemvalue="Application.Lox" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.com.interpreter.tool.GenerateAst" />
     </list>
     <recent_temporary>
       <list>
@@ -99,10 +99,10 @@
     </recent_temporary>
   </component>
   <component name="WindowStateProjectService">
-    <state x="227" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1694559952051">
+    <state x="830" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695734810192">
       <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state x="227" y="313" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.970@0.25.1920.970" timestamp="1694559952051" />
+    <state x="830" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.970@0.25.1920.970" timestamp="1695734810192" />
     <state x="227" y="315" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.973@0.25.1920.973" timestamp="1694193188084" />
     <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1695501961793">
       <screen x="0" y="25" width="1920" height="970" />
@@ -110,31 +110,31 @@
     <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser/0.25.1920.970@0.25.1920.970" timestamp="1695501961793" />
     <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser/0.25.1920.971@0.25.1920.971" timestamp="1691109935168" />
     <state x="1175" y="268" key="#com.intellij.ide.util.MemberChooser/0.25.1920.975@0.25.1920.975" timestamp="1694037763928" />
-    <state width="1419" height="239" key="GridCell.Tab.0.bottom" timestamp="1694560995500">
-      <screen x="0" y="25" width="1920" height="971" />
+    <state width="1009" height="235" key="GridCell.Tab.0.bottom" timestamp="1695741244763">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.970@0.25.1920.970" timestamp="1694559959378" />
+    <state width="1009" height="235" key="GridCell.Tab.0.bottom/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
     <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.971@0.25.1920.971" timestamp="1694560995500" />
     <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.973@0.25.1920.973" timestamp="1694193195849" />
     <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.975@0.25.1920.975" timestamp="1694034892473" />
-    <state width="1419" height="239" key="GridCell.Tab.0.center" timestamp="1694560995499">
-      <screen x="0" y="25" width="1920" height="971" />
+    <state width="1009" height="235" key="GridCell.Tab.0.center" timestamp="1695741244763">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.970@0.25.1920.970" timestamp="1694559959377" />
+    <state width="1009" height="235" key="GridCell.Tab.0.center/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
     <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.971@0.25.1920.971" timestamp="1694560995499" />
     <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.973@0.25.1920.973" timestamp="1694193195848" />
     <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
-    <state width="1419" height="239" key="GridCell.Tab.0.left" timestamp="1694560995499">
-      <screen x="0" y="25" width="1920" height="971" />
+    <state width="1009" height="235" key="GridCell.Tab.0.left" timestamp="1695741244762">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.970@0.25.1920.970" timestamp="1694559959376" />
+    <state width="1009" height="235" key="GridCell.Tab.0.left/0.25.1920.970@0.25.1920.970" timestamp="1695741244762" />
     <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.971@0.25.1920.971" timestamp="1694560995499" />
     <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.973@0.25.1920.973" timestamp="1694193195848" />
     <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
-    <state width="1419" height="239" key="GridCell.Tab.0.right" timestamp="1694560995500">
-      <screen x="0" y="25" width="1920" height="971" />
+    <state width="1009" height="235" key="GridCell.Tab.0.right" timestamp="1695741244763">
+      <screen x="0" y="25" width="1920" height="970" />
     </state>
-    <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.970@0.25.1920.970" timestamp="1694559959377" />
+    <state width="1009" height="235" key="GridCell.Tab.0.right/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
     <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.971@0.25.1920.971" timestamp="1694560995500" />
     <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.973@0.25.1920.973" timestamp="1694193195849" />
     <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
