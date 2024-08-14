@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="21fc8368-d575-4a71-b929-3fa1960aea3d" name="Default Changelist" comment="" />
+    <list default="true" id="21fc8368-d575-4a71-b929-3fa1960aea3d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Environment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Environment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Assign.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Assign.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Binary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Call.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Call.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Get.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Get.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Grouping.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Grouping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Literal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Literal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Logical.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Logical.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Set.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Set.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Unary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Unary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Variable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Variable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Expr.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Interpreter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Lox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Lox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxCallable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxFunction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxFunction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxInstance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/LoxInstance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser$ParseError.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser$ParseError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Parser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Resolver$FunctionType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Resolver$FunctionType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Resolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Resolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Return.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Return.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/RuntimeError.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/RuntimeError.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Scanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Block.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Block.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Class.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Class.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$If.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$If.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Print.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Print.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Return.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Return.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Var.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Var.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$While.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt$While.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Stmt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/TokenType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/lox/TokenType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/tool/GenerateAst.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java-interpreter/com/interpreter/tool/GenerateAst.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/AstPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/AstPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Environment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Environment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Expr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Expr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Interpreter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Interpreter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Lox.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Lox.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/LoxCallable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/LoxCallable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/LoxClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/LoxClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/LoxFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/LoxFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/LoxInstance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/LoxInstance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Resolver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Resolver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Return.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/RuntimeError.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/RuntimeError.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Scanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Scanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Stmt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Stmt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/Token.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/Token.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/interpreter/lox/TokenType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/interpreter/lox/TokenType.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +80,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2Q9tYf9ZWl3jIiZgM3Pc5Fzst3T" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -24,34 +95,31 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showModules" value="false" />
     <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager" selected="Application.com.interpreter.tool.GenerateAst">
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lox.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "git-widget-placeholder": "from__source",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sualah/Documents/Projects/jlox/java-interpreter"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lox">
     <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
     </configuration>
     <configuration name="AstPrinter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interpreter.lox.AstPrinter" />
       <module name="java-interpreter" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2" />
     </configuration>
     <configuration name="Lox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.interpreter.lox.Lox" />
       <module name="java-interpreter" />
       <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/../demo.lox" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -60,7 +128,6 @@
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="java-interpreter" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
@@ -68,8 +135,10 @@
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <method v="2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="com.interpreter.tool.GenerateAst" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.interpreter.tool.GenerateAst" />
@@ -80,6 +149,15 @@
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -98,65 +176,21 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="WindowStateProjectService">
-    <state x="830" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1695734810192">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state x="830" y="145" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.970@0.25.1920.970" timestamp="1695734810192" />
-    <state x="227" y="315" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.973@0.25.1920.973" timestamp="1694193188084" />
-    <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser" timestamp="1695501961793">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser/0.25.1920.970@0.25.1920.970" timestamp="1695501961793" />
-    <state x="1175" y="267" key="#com.intellij.ide.util.MemberChooser/0.25.1920.971@0.25.1920.971" timestamp="1691109935168" />
-    <state x="1175" y="268" key="#com.intellij.ide.util.MemberChooser/0.25.1920.975@0.25.1920.975" timestamp="1694037763928" />
-    <state width="1009" height="235" key="GridCell.Tab.0.bottom" timestamp="1695741244763">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1009" height="235" key="GridCell.Tab.0.bottom/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
-    <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.971@0.25.1920.971" timestamp="1694560995500" />
-    <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.973@0.25.1920.973" timestamp="1694193195849" />
-    <state width="1419" height="239" key="GridCell.Tab.0.bottom/0.25.1920.975@0.25.1920.975" timestamp="1694034892473" />
-    <state width="1009" height="235" key="GridCell.Tab.0.center" timestamp="1695741244763">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1009" height="235" key="GridCell.Tab.0.center/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
-    <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.971@0.25.1920.971" timestamp="1694560995499" />
-    <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.973@0.25.1920.973" timestamp="1694193195848" />
-    <state width="1419" height="239" key="GridCell.Tab.0.center/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
-    <state width="1009" height="235" key="GridCell.Tab.0.left" timestamp="1695741244762">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1009" height="235" key="GridCell.Tab.0.left/0.25.1920.970@0.25.1920.970" timestamp="1695741244762" />
-    <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.971@0.25.1920.971" timestamp="1694560995499" />
-    <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.973@0.25.1920.973" timestamp="1694193195848" />
-    <state width="1419" height="239" key="GridCell.Tab.0.left/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
-    <state width="1009" height="235" key="GridCell.Tab.0.right" timestamp="1695741244763">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1009" height="235" key="GridCell.Tab.0.right/0.25.1920.970@0.25.1920.970" timestamp="1695741244763" />
-    <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.971@0.25.1920.971" timestamp="1694560995500" />
-    <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.973@0.25.1920.973" timestamp="1694193195849" />
-    <state width="1419" height="239" key="GridCell.Tab.0.right/0.25.1920.975@0.25.1920.975" timestamp="1694034892472" />
-    <state width="1419" height="227" key="GridCell.Tab.1.bottom" timestamp="1694130665473">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1419" height="227" key="GridCell.Tab.1.bottom/0.25.1920.970@0.25.1920.970" timestamp="1694130665473" />
-    <state width="1920" height="245" key="GridCell.Tab.1.bottom/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
-    <state width="1419" height="227" key="GridCell.Tab.1.center" timestamp="1694130665473">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1419" height="227" key="GridCell.Tab.1.center/0.25.1920.970@0.25.1920.970" timestamp="1694130665473" />
-    <state width="1920" height="245" key="GridCell.Tab.1.center/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
-    <state width="1419" height="227" key="GridCell.Tab.1.left" timestamp="1694130665472">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1419" height="227" key="GridCell.Tab.1.left/0.25.1920.970@0.25.1920.970" timestamp="1694130665472" />
-    <state width="1920" height="245" key="GridCell.Tab.1.left/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
-    <state width="1419" height="227" key="GridCell.Tab.1.right" timestamp="1694130665473">
-      <screen x="0" y="25" width="1920" height="970" />
-    </state>
-    <state width="1419" height="227" key="GridCell.Tab.1.right/0.25.1920.970@0.25.1920.970" timestamp="1694130665473" />
-    <state width="1920" height="245" key="GridCell.Tab.1.right/0.25.1920.971@0.25.1920.971" timestamp="1691109206460" />
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.10-corretto-17.0.10-3183f394aec4-96c0d24d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1723636160965</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723636160965</updated>
+    </task>
+    <servers />
   </component>
 </project>
